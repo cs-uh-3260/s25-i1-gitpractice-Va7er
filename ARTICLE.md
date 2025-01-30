@@ -7,3 +7,5 @@ It is interesting to see how a blind programmer carves their own path and uses t
 
 Article checked for typos
 
+### Harsh Sahu
+What I found particularly fascinating is how Doustdar's experience illustrates the broader limitations of accessibility in software and operating systems. For one, he explains why, with its command environment, Linux isn't web-browser accessible in a format similar to Windows. His criticism of productivity software such as Google Analytics and Trello, in regards to an improper compatibility with a screen reader, reflects gaps in accessible design. Not only is the article a tribute to determination, but it is a reflection of a demand for even more accessability in technology. It is a powerful reminder of technology's role in overcoming gaps and opening doors for all.
